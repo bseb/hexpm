@@ -22,7 +22,7 @@ Hex is the set of formats and APIs that makes up the specification of Hex. Hex.p
 
 We expect all members of the Hex community, including paid and unpaid agents, administrators, and users to abide by this Code of Conduct at all times in all Hex community venues, online and in person, and in one-on-one communications pertaining to Hex affairs.
 
-This policy covers the usage of the Hex registry, as well as the Hex website, Hex related events, and any other services offered by or on behalf of Hex (collectively, the "Service"). It also applies to behavior in the context of the Hex Open Source project communities, including but not limited to public GitHub repositories, IRC channels, social media, mailing lists, and public events.
+This policy covers the usage of the Hex registry, as well as the Hex website, and any other services offered by or on behalf of Hex (collectively, the "Service"). It also applies to behavior in the context of the Hex open source project communities, including but not limited to public GitHub repositories, IRC channels, discussion forums and mailing lists when they relate to the Service or Hex communities.
 
 This Code of Conduct is in addition to, and does not in any way nullify or invalidate, any other terms or conditions related to use of the Service.
 
@@ -36,11 +36,9 @@ We ask that you please respect that people have differences of opinion regarding
 
 Any spamming, trolling, flaming, baiting, or other attention-stealing behaviour is not welcome, and will not be tolerated.
 
-Harassing other users of the Service is never tolerated, whether via public or private media.
+Harassing other users of the Service is never tolerated, including via package names, nicknames, or other identifiers that might detract from a friendly, safe, and welcoming environment for all.
 
-Avoid using offensive or harassing package names, nicknames, or other identifiers that might detract from a friendly, safe, and welcoming environment for all.
-
-Harassment includes, but is not limited to: harmful or prejudicial verbal or written comments related to gender identity, sexual orientation, disability, ethnicity, religion, age, physical appearance, body size, race, or similar personal characteristics; inappropriate use of nudity, sexual images, and/or sexually explicit language in public spaces; threats of physical or non-physical harm; deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; and unwelcome sexual attention.
+Furthermore, abusing, threatening, or inciting violence against any groups or individuals, including Hex team members or other users is not tolerated.
 
 ### Acceptable Package Content
 
